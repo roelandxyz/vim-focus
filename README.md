@@ -15,4 +15,7 @@ set background=dark
 colorscheme focus
 ```
 
+Use [colortemplate](https://github.com/lifepillar/vim-colortemplate) to change the colors.
 
+
+![image](https://github.com/user-attachments/assets/7dde2201-3246-48ff-9edb-cff0205b83a0)
